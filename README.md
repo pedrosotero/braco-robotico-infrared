@@ -1,6 +1,13 @@
 # Braço robótico infra-vermelho
 ***
- Projeto de um braço robótico controlado por infra-vermelho usando arduino feito pelos alunos do primeiro período de Engenharia de Computação da *Universidade Federal da Paraíba*: Augusto Anastácio, Beatriz Rocha, João Vitor, Luiz Souza e [Pedro Sotero](https://github.com/pedrosotero) para a disciplina de **Introducão à Engenharia de Computação**.
+ Projeto de um braço robótico controlado por infra-vermelho usando arduino feito pelos alunos do primeiro período de Engenharia de Computação da *Universidade Federal da Paraíba* para a disciplina de **Introducão à Engenharia de Computação**.
+ 
+## Alunos
+* Augusto Anastácio
+* Beatriz Rocha
+* João Vitor
+* Luiz Souza
+* [Pedro Sotero](https://github.com/pedrosotero)
 
 ## Peças em MDF
  Para a parte física do braço, utilizamos este [projeto no Thingverse](https://www.thingiverse.com/thing:360108).
@@ -23,4 +30,3 @@
 
  ## Aprendizagem
  Com esse projeto pudemos aprender diversas tecnologias, ferramentas, dispositivos novos e trabalhar na prática com eles. A construção de um braço robótico controlado remotamente nos trouxe conhecimentos sobre como utilizar e manusear o sensor infravermelho e integrá-lo com o *Arduino*. Nos fez aprender sobre servo motores e nos deu ideias de aplicações para eles em outros projetos. Desenvolvemos uma boa noção de como integrar o setor virtual do projeto com o setor físico e tivemos a oportunidade de trabalhar em equipe e praticar a nossa cooperação.
-
