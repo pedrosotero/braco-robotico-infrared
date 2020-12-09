@@ -6,7 +6,7 @@
 * Augusto Anastácio
 * Beatriz Rocha
 * João Vitor
-* Luiz Souza
+* [Luiz Souza](https://github.com/GusttavoOliveira)
 * [Pedro Sotero](https://github.com/pedrosotero)
 
 ## Peças em MDF
